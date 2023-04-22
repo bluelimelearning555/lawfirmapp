@@ -83,7 +83,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'lawdb',
         'USER': 'rik',
-        'PASSWORD': 'Ovbigho7',
+        'PASSWORD': 'Password1',
         'HOST': 'localhost',
         'PORT': '5432',
 
